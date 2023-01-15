@@ -123,6 +123,6 @@ view box = Ansichtsbox
 vievbox = Ansichtsbox
 viewport = Ansichtsfenster
 viewport space = Koordinatenraum des Ansichtsfenster
-word-spacing = Wortabstand
+word spacing = Wortabstand
 zoom in = Einzoomen
 zoom out = Auszoomen
