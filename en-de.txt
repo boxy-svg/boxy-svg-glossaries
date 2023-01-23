@@ -127,6 +127,7 @@ outer SVG = äußere SVG
 opacity = Deckkraft
 orientation = Ausrichtung
 palette = Palette
+panel = Paneel
 panels = Paneele
 path = Pfad
 pattern = Muster
